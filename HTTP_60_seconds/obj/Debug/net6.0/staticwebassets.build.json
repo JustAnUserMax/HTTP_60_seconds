@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yZiXWt2z3YUjAaTRLx1nAN0S3bWqeM72Nf/GArqsHVI=",
+  "Source": "HTTP_60_seconds",
+  "BasePath": "_content/HTTP_60_seconds",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
